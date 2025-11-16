@@ -1,0 +1,18 @@
+publishDir = "docs"
+baseURL = "https://fleckenstein-m.github.io/FINC672-SP2026"
+languageCode = 'en-us'
+title = 'FIN672 - Financial Data Analytics'
+theme = 'hugo-theme-relearn'
+[params]
+  themeVariant = 'neon'
+  alwaysopen = false
+  linkTitle = 'FINC672'
+  collapsibleMenu = true
+  courseTitle = "FINC672 - Financial Data Analytics"
+  courseTerm  = "Spring 2026"
+  instructor  = "Prof. Matt Fleckenstein"
+  custom_css = ["css/custom.css"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
