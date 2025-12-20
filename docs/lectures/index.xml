@@ -12,14 +12,154 @@
       <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_01/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_01/index.html</guid>
-      <description></description>
+      <description>Notebook&#xD;Lecture Description Notebook 01 Intro to Google Colab Link</description>
     </item>
     <item>
       <title>Lecture 02</title>
       <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_02/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_02/index.html</guid>
-      <description>Lectures&#xD;Lecture 1 Slides</description>
+      <description>Notebook&#xD;Lecture Description Notebook 02 Objects Link</description>
+    </item>
+    <item>
+      <title>Lecture 03</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_03/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_03/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 03 Functions Link</description>
+    </item>
+    <item>
+      <title>Lecture 04</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_04/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_04/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 04 Flow Control Link</description>
+    </item>
+    <item>
+      <title>Lecture 05</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_05/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_05/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 05 Lists and Dictionaries Link</description>
+    </item>
+    <item>
+      <title>Lecture 06</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_06/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_06/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 06 Libraries Link</description>
+    </item>
+    <item>
+      <title>Lecture 07</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_07/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_07/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 07 Intro to Pandas Link</description>
+    </item>
+    <item>
+      <title>Lecture 08</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_08/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_08/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 08 More Pandas Link</description>
+    </item>
+    <item>
+      <title>Lecture 09</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_09/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_09/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 09 Returns Link</description>
+    </item>
+    <item>
+      <title>Lecture 10</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_10/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_10/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 10 Time Series Link</description>
+    </item>
+    <item>
+      <title>Lecture 11</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_11/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_11/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 11 Data Visualization Link</description>
+    </item>
+    <item>
+      <title>Lecture 12</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_12/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_12/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 12 Interactive Visualization Link</description>
+    </item>
+    <item>
+      <title>Lecture 13</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_13/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_13/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 13 More Data Visualization Link</description>
+    </item>
+    <item>
+      <title>Lecture 14</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_14/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_14/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 14 Data APIs Link</description>
+    </item>
+    <item>
+      <title>Lecture 15</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_15/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_15/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 15 Portfolio Mathematics Link</description>
+    </item>
+    <item>
+      <title>Lecture 16</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_16/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_16/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 16 Portfolio Optimization Link</description>
+    </item>
+    <item>
+      <title>Lecture 17</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_17/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_17/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 17 Portfolio Optimization II Link</description>
+    </item>
+    <item>
+      <title>Lecture 18</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_18/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_18/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 18 CAPM Link</description>
+    </item>
+    <item>
+      <title>Lecture 19</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_19/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_19/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 19 Multifactor Models Link</description>
+    </item>
+    <item>
+      <title>Lecture 20</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_20/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_20/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 20 Black Scholes Link</description>
+    </item>
+    <item>
+      <title>Lecture 21</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_21/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_21/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 21 Backtesting Link</description>
+    </item>
+    <item>
+      <title>Lecture 22</title>
+      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_22/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/lecture_22/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 22 Machine Learning Credit Defaults Link</description>
     </item>
   </channel>
 </rss>

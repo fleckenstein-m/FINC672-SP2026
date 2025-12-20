@@ -3,7 +3,7 @@
   <channel>
     <title>FINC672 - Financial Data Analytics :: FIN672 - Financial Data Analytics</title>
     <link>https://fleckenstein-m.github.io/FINC672-SP2026/index.html</link>
-    <description>This is your new home page.&#xA;📄 Show Syllabus</description>
+    <description>Course Description&#xD;This course provides an overview of empirical research in finance, with an emphasis on modern data-driven methods. The course is organized into two parts. In the first part, students build foundational programming and data science skills in Python, with a practical focus on collecting, cleaning, transforming, and analyzing large financial datasets—skills that are increasingly essential in the era of big data and financial technology (FinTech). In the second part, students study widely used, state-of-the-art statistical methods in empirical asset pricing. Throughout the course, students apply programming tools and statistical techniques to real-world research questions in equity, derivatives, and fixed-income markets.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://fleckenstein-m.github.io/FINC672-SP2026/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
       <link>https://fleckenstein-m.github.io/FINC672-SP2026/assignments/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fleckenstein-m.github.io/FINC672-SP2026/assignments/index.html</guid>
-      <description>Assignment 01 Assignment 02</description>
+      <description>Problem Sets&#xD;Solutions</description>
     </item>
   </channel>
 </rss>
