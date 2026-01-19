@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 01 Intro to Google Colab Link",
-    "description": "Notebook\rLecture Description Notebook 01 Intro to Google Colab Link",
+    "content": "Notebook\rLecture Description Notebook 01 Intro to Google Colab. Link",
+    "description": "Notebook\rLecture Description Notebook 01 Intro to Google Colab. Link",
     "tags": [],
     "title": "Lecture 01",
     "uri": "/FINC672-SP2026/lectures/lecture_01/index.html"
