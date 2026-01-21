@@ -9,4 +9,4 @@ weight: 2
 
 | Lecture        |  Description                             | Notebook
 | :------------- | :-----------------------------------     | :-----------------------------------------------------------------------------------------              |
-| 15               |  Portfolio Mathematics                                        | [Link](https://colab.research.google.com/drive/1Vv0zvPJFpDhphBSDftsAgbjmm-7YZC2T?usp=drive_link)        |
+<!-- | 15               |  Portfolio Mathematics                                        | [Link](https://colab.research.google.com/drive/1Vv0zvPJFpDhphBSDftsAgbjmm-7YZC2T?usp=drive_link)        |-->

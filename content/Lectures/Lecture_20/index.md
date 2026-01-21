@@ -10,4 +10,4 @@ weight: 2
 
 | Lecture        |  Description                             | Notebook
 | :------------- | :-----------------------------------     | :-----------------------------------------------------------------------------------------              |
-| 20               |  Black Scholes                                        | [Link](https://colab.research.google.com/drive/1-Ge2UE5YCQPlOHXkdAcSIk9A8oGhj6uf?usp=drive_link)        |
+<!-- | 20               |  Black Scholes                                        | [Link](https://colab.research.google.com/drive/1-Ge2UE5YCQPlOHXkdAcSIk9A8oGhj6uf?usp=drive_link)        |-->

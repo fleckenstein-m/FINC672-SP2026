@@ -25,168 +25,168 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 02 Objects Link",
-    "description": "Notebook\rLecture Description Notebook 02 Objects Link",
+    "content": "Notebook\rLecture Description Notebook 02 Objects. Link",
+    "description": "Notebook\rLecture Description Notebook 02 Objects. Link",
     "tags": [],
     "title": "Lecture 02",
     "uri": "/FINC672-SP2026/lectures/lecture_02/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 03 Functions Link",
-    "description": "Notebook\rLecture Description Notebook 03 Functions Link",
+    "content": "Notebook\rLecture Description Notebook 03 Functions. Link",
+    "description": "Notebook\rLecture Description Notebook 03 Functions. Link",
     "tags": [],
     "title": "Lecture 03",
     "uri": "/FINC672-SP2026/lectures/lecture_03/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 04 Flow Control Link",
-    "description": "Notebook\rLecture Description Notebook 04 Flow Control Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 04",
     "uri": "/FINC672-SP2026/lectures/lecture_04/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 05 Lists and Dictionaries Link",
-    "description": "Notebook\rLecture Description Notebook 05 Lists and Dictionaries Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 05",
     "uri": "/FINC672-SP2026/lectures/lecture_05/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 06 Libraries Link",
-    "description": "Notebook\rLecture Description Notebook 06 Libraries Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 06",
     "uri": "/FINC672-SP2026/lectures/lecture_06/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 07 Intro to Pandas Link",
-    "description": "Notebook\rLecture Description Notebook 07 Intro to Pandas Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 07",
     "uri": "/FINC672-SP2026/lectures/lecture_07/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 08 More Pandas Link",
-    "description": "Notebook\rLecture Description Notebook 08 More Pandas Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 08",
     "uri": "/FINC672-SP2026/lectures/lecture_08/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 09 Returns Link",
-    "description": "Notebook\rLecture Description Notebook 09 Returns Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 09",
     "uri": "/FINC672-SP2026/lectures/lecture_09/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 10 Time Series Link",
-    "description": "Notebook\rLecture Description Notebook 10 Time Series Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 10",
     "uri": "/FINC672-SP2026/lectures/lecture_10/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 11 Data Visualization Link",
-    "description": "Notebook\rLecture Description Notebook 11 Data Visualization Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 11",
     "uri": "/FINC672-SP2026/lectures/lecture_11/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 12 Interactive Visualization Link",
-    "description": "Notebook\rLecture Description Notebook 12 Interactive Visualization Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 12",
     "uri": "/FINC672-SP2026/lectures/lecture_12/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 13 More Data Visualization Link",
-    "description": "Notebook\rLecture Description Notebook 13 More Data Visualization Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 13",
     "uri": "/FINC672-SP2026/lectures/lecture_13/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 14 Data APIs Link",
-    "description": "Notebook\rLecture Description Notebook 14 Data APIs Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 14",
     "uri": "/FINC672-SP2026/lectures/lecture_14/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 15 Portfolio Mathematics Link",
-    "description": "Notebook\rLecture Description Notebook 15 Portfolio Mathematics Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 15",
     "uri": "/FINC672-SP2026/lectures/lecture_15/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 16 Portfolio Optimization Link",
-    "description": "Notebook\rLecture Description Notebook 16 Portfolio Optimization Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 16",
     "uri": "/FINC672-SP2026/lectures/lecture_16/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 17 Portfolio Optimization II Link",
-    "description": "Notebook\rLecture Description Notebook 17 Portfolio Optimization II Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 17",
     "uri": "/FINC672-SP2026/lectures/lecture_17/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 18 CAPM Link",
-    "description": "Notebook\rLecture Description Notebook 18 CAPM Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 18",
     "uri": "/FINC672-SP2026/lectures/lecture_18/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 19 Multifactor Models Link",
-    "description": "Notebook\rLecture Description Notebook 19 Multifactor Models Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 19",
     "uri": "/FINC672-SP2026/lectures/lecture_19/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 20 Black Scholes Link",
-    "description": "Notebook\rLecture Description Notebook 20 Black Scholes Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 20",
     "uri": "/FINC672-SP2026/lectures/lecture_20/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 21 Backtesting Link",
-    "description": "Notebook\rLecture Description Notebook 21 Backtesting Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 21",
     "uri": "/FINC672-SP2026/lectures/lecture_21/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 22 Machine Learning Credit Defaults Link",
-    "description": "Notebook\rLecture Description Notebook 22 Machine Learning Credit Defaults Link",
+    "content": "Notebook\rLecture Description Notebook",
+    "description": "Notebook\rLecture Description Notebook",
     "tags": [],
     "title": "Lecture 22",
     "uri": "/FINC672-SP2026/lectures/lecture_22/index.html"

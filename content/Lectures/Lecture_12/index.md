@@ -10,4 +10,4 @@ weight: 2
 
 | Lecture        |  Description                             | Notebook
 | :------------- | :-----------------------------------     | :-----------------------------------------------------------------------------------------              |
-| 12               |  Interactive Visualization                                        | [Link](https://colab.research.google.com/drive/1KdrdvOZYq7cVrne0PJCrAdSnElJKf_Hm?usp=drive_link)        |
+<!-- | 12               |  Interactive Visualization                                        | [Link](https://colab.research.google.com/drive/1KdrdvOZYq7cVrne0PJCrAdSnElJKf_Hm?usp=drive_link)        |-->
