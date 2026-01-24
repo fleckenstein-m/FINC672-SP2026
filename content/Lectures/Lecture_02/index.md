@@ -9,5 +9,6 @@ weight: 2
 
 | Lecture        |  Description                             | Notebook
 | :------------- | :-----------------------------------     | :-----------------------------------------------------------------------------------------              |
-| 02             |  Objects.                                 | [Link](https://colab.research.google.com/drive/1pTCIEnWn18GlD7l7jACL3ErftwQ3oY-6?usp=drive_link)        |
+| 02             |  Objects.                                 | [Link](https://colab.research.google.com/drive/1IOVyNf2ktJk83-9zPslosDAuyVlNl0Ar?usp=drive_link)        |
 <!--| 02             |  Objects                                 | [Link](https://colab.research.google.com/drive/1rKzCV47obWgJqGk55HsR91NcXF_QVki4?usp=drive_link)        |-->
+

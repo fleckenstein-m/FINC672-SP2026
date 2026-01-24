@@ -9,4 +9,5 @@ weight: 2
 
 | Lecture        |  Description                             | Notebook
 | :------------- | :-----------------------------------     | :-----------------------------------------------------------------------------------------              |
+<!-- |  13              |  More Data Visualization.                                        | [Link](https://colab.research.google.com/drive/1ZaVIITIU9Ta006isWQk18qGn1iJ2xhQE?usp=drive_link)        |-->
 <!-- |  13              |  More Data Visualization                                        | [Link](https://colab.research.google.com/drive/1RIdV7mwhSi03iTXNmOchzZtSqfNJfYp3?usp=drive_link)        |-->

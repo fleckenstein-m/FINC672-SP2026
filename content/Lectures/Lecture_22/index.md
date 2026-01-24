@@ -9,4 +9,5 @@ weight: 2
 
 | Lecture        |  Description                             | Notebook
 | :------------- | :-----------------------------------     | :-----------------------------------------------------------------------------------------              |
-<!-- |  22              |  Machine Learning Credit Defaults                                        | [Link](https://colab.research.google.com/drive/11cqgh0AYKyEuGiZm2MQdu79_nh3c4OOT?usp=drive_link)        |-->
+<!-- |  22              |  Machine Learning I.              | [Link](https://colab.research.google.com/drive/1HsA4d0byQFwnOgIxZQX-fXucMWIGtFEs?usp=drive_link)        |-->
+<!-- |  22              |  Machine Learning I               | [Link](https://colab.research.google.com/drive/1Y5dRD4GYD9Ade9a9v7hZPHpX6MuLIC27?usp=drive_link)        |-->

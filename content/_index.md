@@ -107,14 +107,14 @@ After completing this course, students will be able to:
 | 2026-04-21     | Tuesday      | Lecture 18 (CAPM)                                         |                  |
 | 2026-04-23     | Thursday     | Lecture 19 (Multifactor Models)                           | 29-32            |
 |                                                                                                              |
-| 2026-04-28     | Tuesday      | Lecture 19 (b) (Multifactor Models)                       |                  |
-| 2026-04-30     | Thursday     | Lecture 20 (Options and Black Scholes)                    | 33-34            |
+| 2026-04-28     | Tuesday      | Lecture 20 (Options and Black Scholes)                    | 33-35            |
+| 2026-04-30     | Thursday     | Lecture 21 (Backtesting)                                  |                  |
 |                                                                                                              |
-| 2026-05-05     | Tuesday      | Lecture 20 (b) (Options and Black Scholes)                | 35               |
-| 2026-05-07     | Thursday     | Lecture 21 (Backtesting)                                  |                  |
+| 2026-05-05     | Tuesday      | Lecture 22 (Machine Learning I)                           |                  |
+| 2026-05-07     | Thursday     | Lecture 23 (Machine Learning II)                          |                  |
 |                                                                                                              |
-| 2026-05-12     | Tuesday      | Lecture 22 (Machine Learning)                             |                  |
-| 2026-05-14     | Thursday     | Lecture 22 (Machine Learning II) & Last Day of Classes    |                  |
+| 2026-05-12     | Tuesday      | Lecture 24 (Machine Learning III)                         |                  |
+| 2026-05-14     | Thursday     | Lecture 25 (Machine Learning IV) & Last Day of Classes    |                  |
 |                                                                                                              |
 | **TBD**        | **TBD**      | **Final Exam**                                            |                  |
 |                                                                                                              |
