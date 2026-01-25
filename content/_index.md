@@ -67,6 +67,7 @@ After completing this course, students will be able to:
 
 <br>
 
+
 ## Tentative Course Schedule
 
 | Date           | Day          | Lecture                                                   | Assignment       | 
