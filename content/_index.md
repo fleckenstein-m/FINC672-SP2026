@@ -6,11 +6,9 @@ type = "home"
 
 ## Course Description
 
-This course provides an overview of empirical research in finance, with an emphasis on modern data-driven methods. 
-The course is organized into two parts. In the first part, students build foundational programming and data science skills in Python, 
-with a practical focus on collecting, cleaning, transforming, and analyzing large financial datasets—skills that are increasingly 
-essential in the era of big data and financial technology (FinTech). 
-In the second part, students study widely used, state-of-the-art statistical methods in empirical asset pricing. 
+This course provides an overview of empirical research in finance. The course is organized into two parts. 
+In the first part, students build foundational programming and data science skills in Python, with a practical focus on collecting, cleaning, transforming, and analyzing financial datasets. 
+These skills are increasingly essential in the era of big data and FinTech. In the second part, students study widely used, state-of-the-art statistical methods in empirical asset pricing and machine learning. 
 Throughout the course, students apply programming tools and statistical techniques to real-world research questions in equity, derivatives, and fixed-income markets.
 
 
