@@ -7,7 +7,7 @@ weight: 2
 
 ## Problem Sets
 
-<!--
+
 | Assignment     |  Description                             | Link to Google Colab                                                                          |
 | :------------- | :---------------------                   | :-----------------------------------------------------------------------------------------    |
 | Assignment 01  | Variables                                |  [Notebook](https://colab.research.google.com/drive/16XuZHn1WjGjYYgP3gzT7kOI1psxV-Mum)        |
@@ -19,6 +19,8 @@ weight: 2
 | Assignment 07  | Indexing                                 |  [Notebook](https://colab.research.google.com/drive/1LT-EYYVkqGYMCdrete7RmR7jj4pxoVLQ)        |
 | Assignment 08  | Comparisons II                           |  [Notebook](https://colab.research.google.com/drive/1KazIL7U1rH3Ubw5Sl_w84QQN_5qQg7M_)        |
 | Assignment 09  | Logical and Identity Operators           |  [Notebook](https://colab.research.google.com/drive/19tIyyVyKLD1_6g9KpYziwiRNcXjDHXoG)        |
+
+<!--
 | Assignment 10  | Functions                                |  [Notebook](https://colab.research.google.com/drive/1NspavVgcdsrI-ihEQLFDdcbtY89qQ3Ky)        |
 | Assignment 11  | If-Else                                  |  [Notebook](https://colab.research.google.com/drive/1pZsh2S1QtAnZTr3iZ-xwSAnbjc8tvu7o)        |
 | Assignment 15  | For Loops                                |  [Notebook](https://colab.research.google.com/drive/1iAUcSI-W--dPdtMsBTZH4tQBmJ5hYs92)        |

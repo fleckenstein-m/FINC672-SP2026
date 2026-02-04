@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FINC672 - Financial Data Analytics :: FIN672 - Financial Data Analytics</title>
-    <link>https://fleckenstein-m.github.io/FINC672-SP2026/index.html</link>
+    <link>http://localhost:1313/FINC672-SP2026/index.html</link>
     <description>Course Description&#xD;This course provides an overview of empirical research in finance. The course is organized into two parts. In the first part, students build foundational programming and data science skills in Python, with a practical focus on collecting, cleaning, transforming, and analyzing financial datasets. These skills are increasingly essential in the era of big data and FinTech. In the second part, students study widely used, state-of-the-art statistical methods in empirical asset pricing and machine learning. Throughout the course, students apply programming tools and statistical techniques to real-world research questions in equity, derivatives, and fixed-income markets.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://fleckenstein-m.github.io/FINC672-SP2026/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/FINC672-SP2026/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lectures</title>
-      <link>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/index.html</link>
+      <link>http://localhost:1313/FINC672-SP2026/lectures/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/lectures/index.html</guid>
+      <guid>http://localhost:1313/FINC672-SP2026/lectures/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Assignments</title>
-      <link>https://fleckenstein-m.github.io/FINC672-SP2026/assignments/index.html</link>
+      <link>http://localhost:1313/FINC672-SP2026/assignments/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fleckenstein-m.github.io/FINC672-SP2026/assignments/index.html</guid>
-      <description>Problem Sets&#xD;Solutions</description>
+      <guid>http://localhost:1313/FINC672-SP2026/assignments/index.html</guid>
+      <description>Problem Sets&#xD;Assignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Solutions</description>
     </item>
   </channel>
 </rss>

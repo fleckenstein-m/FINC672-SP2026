@@ -17,8 +17,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
-    "content": "Problem Sets\rSolutions",
-    "description": "Problem Sets\rSolutions",
+    "content": "Problem Sets\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Solutions",
+    "description": "Problem Sets\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Solutions",
     "tags": [],
     "title": "Assignments",
     "uri": "/FINC672-SP2026/assignments/index.html"
