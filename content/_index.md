@@ -71,10 +71,10 @@ After completing this course, students will be able to:
 | Date           | Day          | Lecture                                                   | Assignment       | 
 | :---------     | :-------     | :-------------------------------------------------        | :--------------- |
 | 2026-02-03     | Tuesday      | Lecture 01 (Intro to Colab)                               |                  |
-| 2026-02-05     | Thursday     | Lecture 02 (Objects)                                      | 01-09            |
+| 2026-02-05     | Thursday     | Lecture 02 (Objects)                                      | 01-06            |
 |                                                                                                              |
 | 2026-02-10     | Tuesday      | Lecture 03 (Functions)                                    |                  |
-| 2026-02-12     | Thursday     | Lecture 04 (Control Flow)                                 | 10-12            |
+| 2026-02-12     | Thursday     | Lecture 04 (Control Flow)                                 | 07-12            |
 |                                                                                                              |
 | 2026-02-17     | Tuesday      | Lecture 05 (Lists and Dictionaries)                       |                  |
 | 2026-02-19     | Thursday     | Lecture 06 (Libraries)                                    | 13-15            |

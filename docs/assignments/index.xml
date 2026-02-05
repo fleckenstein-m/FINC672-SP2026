@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assignments :: FIN672 - Financial Data Analytics</title>
-    <link>http://localhost:1313/FINC672-SP2026/assignments/index.html</link>
-    <description>Problem Sets&#xD;Assignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Solutions</description>
+    <link>https://fleckenstein-m.github.io/FINC672-SP2026/assignments/index.html</link>
+    <description>Problem Sets&#xD;Assignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/FINC672-SP2026/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fleckenstein-m.github.io/FINC672-SP2026/assignments/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
