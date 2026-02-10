@@ -1,56 +1,56 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
-    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06",
-    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06",
+    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow)",
+    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow)",
     "tags": [],
     "title": "Calendar",
     "uri": "/FINC672-SP2026/calendar/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook | 01 | Intro to Google Colab Class | Link |",
-    "description": "Notebook\rLecture Description Notebook | 01 | Intro to Google Colab Class | Link |",
+    "content": "Notebook\rLecture Description Notebook 01 Intro to Google Colab Class Link",
+    "description": "Notebook\rLecture Description Notebook 01 Intro to Google Colab Class Link",
     "tags": [],
     "title": "Lecture 01",
     "uri": "/FINC672-SP2026/lectures/lecture_01/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook | 02 | Objects | Link |",
-    "description": "Notebook\rLecture Description Notebook | 02 | Objects | Link |",
+    "content": "Notebook\rLecture Description Notebook 02 Objects Link",
+    "description": "Notebook\rLecture Description Notebook 02 Objects Link",
     "tags": [],
     "title": "Lecture 02",
     "uri": "/FINC672-SP2026/lectures/lecture_02/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 03 Functions. Link",
-    "description": "Notebook\rLecture Description Notebook 03 Functions. Link",
+    "content": "Notebook\rLecture Description Notebook 03 Functions Link",
+    "description": "Notebook\rLecture Description Notebook 03 Functions Link",
     "tags": [],
     "title": "Lecture 03",
     "uri": "/FINC672-SP2026/lectures/lecture_03/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 04 Flow Control. Link",
+    "description": "Notebook\rLecture Description Notebook 04 Flow Control. Link",
     "tags": [],
     "title": "Lecture 04",
     "uri": "/FINC672-SP2026/lectures/lecture_04/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 05 Lists and Dictionaries. Link",
+    "description": "Notebook\rLecture Description Notebook 05 Lists and Dictionaries. Link",
     "tags": [],
     "title": "Lecture 05",
     "uri": "/FINC672-SP2026/lectures/lecture_05/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 06 Libraries. Link",
+    "description": "Notebook\rLecture Description Notebook 06 Libraries. Link",
     "tags": [],
     "title": "Lecture 06",
     "uri": "/FINC672-SP2026/lectures/lecture_06/index.html"
