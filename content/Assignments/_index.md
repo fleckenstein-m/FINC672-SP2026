@@ -16,8 +16,6 @@ weight: 3
 | Assignment 04  | Arithmetic Operators                     |  [Notebook](https://colab.research.google.com/drive/1X_C1l5f1qElK_ksYGjvPCNlQJPuxHump)        |
 | Assignment 05  | Comparisons                              |  [Notebook](https://colab.research.google.com/drive/1XejsfNS5G7SPUmgx-CslKjNReqyXYkEs)        |
 | Assignment 06  | (Re-)assignments                         |  [Notebook](https://colab.research.google.com/drive/1GBvuFx8FjVXX4ecULHexRqEumWOGRipE)        |
-
-<!--
 | Assignment 07  | Indexing                                 |  [Notebook](https://colab.research.google.com/drive/1LT-EYYVkqGYMCdrete7RmR7jj4pxoVLQ)        |
 | Assignment 08  | Comparisons II                           |  [Notebook](https://colab.research.google.com/drive/1KazIL7U1rH3Ubw5Sl_w84QQN_5qQg7M_)        |
 | Assignment 09  | Logical and Identity Operators           |  [Notebook](https://colab.research.google.com/drive/19tIyyVyKLD1_6g9KpYziwiRNcXjDHXoG)        |
@@ -28,6 +26,7 @@ weight: 3
 | Assignment 13  | Tuples                                   |  [Notebook](https://colab.research.google.com/drive/1sVoANz1J5qHMafzzIily2io7nurb-h_x)        |
 | Assignment 14  | Dictionaries                             |  [Notebook](https://colab.research.google.com/drive/1vuzZ-kzatLD74FoOQRM3Yh2gwd28Kacb)        |
 | Assignment 16  | Conditional Statements, Functions, Loops |  [Notebook](https://colab.research.google.com/drive/1qqlyqvz77YVuy5x688nuuC5DH2hK3Qp4)        |
+<!--
 | Assignment 17  | Arrays                                   |  [Notebook](https://colab.research.google.com/drive/1oZwJ-rZEXk5HjWTX1BhvxiyhCh0ja4XJ)        |
 | Assignment 18  | Arithmetic Returns                       |  [Notebook](https://colab.research.google.com/drive/19wSsH3sbsic8chYR01JSmicEphvMWI5u)        |
 | Assignment 19  | Arithmetic Returns II                    |  [Notebook](https://colab.research.google.com/drive/1bHIGA3wPec3154miZWXd1urPpdVOL822)        |
