@@ -57,8 +57,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 07 Intro to Pandas. Link",
+    "description": "Notebook\rLecture Description Notebook 07 Intro to Pandas. Link",
     "tags": [],
     "title": "Lecture 07",
     "uri": "/FINC672-SP2026/lectures/lecture_07/index.html"
