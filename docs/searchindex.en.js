@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
-    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow)",
-    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow)",
+    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) | 2026-02-17 | Tuesday | Lecture 05 (Lists and Dictionaries) | | | 2026-02-19 | Thursday | Lecture 06 (Libraries) | Assignments 7-14 |",
+    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) | 2026-02-17 | Tuesday | Lecture 05 (Lists and Dictionaries) | | | 2026-02-19 | Thursday | Lecture 06 (Libraries) | Assignments 7-14 |",
     "tags": [],
     "title": "Calendar",
     "uri": "/FINC672-SP2026/calendar/index.html"
