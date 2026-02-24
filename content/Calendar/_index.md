@@ -16,9 +16,11 @@ weight: 1
 
 | 2026-02-17     | Tuesday      | Lecture 05 (Lists and Dictionaries)                       |                                |
 | 2026-02-19     | Thursday     | Lecture 06 (Libraries)                                    | **Assignments 7-14**           |
+|                                                                                                                            |
+| 2026-02-24     | Tuesday      | Lecture 07  (Intro to Pandas)                             |                                |
+| 2026-02-26     | Thursday     | Lecture 07b (Intro to Pandas)                             |                                |
 
-<!--|                                                                                                              |
-| 2026-02-24     | Tuesday      | Lecture 07 (Intro to Pandas)                              |                  |
+<!--
 | 2026-02-26     | Thursday     | Lecture 08 (More Pandas)                                  | **Assignments 15-17**            |
 |                                                                                                              |
 | 2026-03-03     | Tuesday      | Lecture 09 (Returns)                                      |                  |
