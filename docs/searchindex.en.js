@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
-    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) | 2026-02-17 | Tuesday | Lecture 05 (Lists and Dictionaries) | | | 2026-02-19 | Thursday | Lecture 06 (Libraries) | Assignments 7-14 | | | | 2026-02-24 | Tuesday | Lecture 07 (Intro to Pandas) | | | 2026-02-26 | Thursday | Lecture 07b (Intro to Pandas) | |",
-    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) — 2026-02-05 Thursday Lecture 02 (Objects) — 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) | 2026-02-17 | Tuesday | Lecture 05 (Lists and Dictionaries) | | | 2026-02-19 | Thursday | Lecture 06 (Libraries) | Assignments 7-14 | | | | 2026-02-24 | Tuesday | Lecture 07 (Intro to Pandas) | | | 2026-02-26 | Thursday | Lecture 07b (Intro to Pandas) | |",
+    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 08b (More Pandas) Assignments 15-17",
+    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 08b (More Pandas) Assignments 15-17",
     "tags": [],
     "title": "Calendar",
     "uri": "/FINC672-SP2026/calendar/index.html"
@@ -33,24 +33,24 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook | 04 | Flow Control | Link |",
-    "description": "Notebook\rLecture Description Notebook | 04 | Flow Control | Link |",
+    "content": "Notebook\rLecture Description Notebook 04 Flow Control Link",
+    "description": "Notebook\rLecture Description Notebook 04 Flow Control Link",
     "tags": [],
     "title": "Lecture 04",
     "uri": "/FINC672-SP2026/lectures/lecture_04/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook | 05 | Lists and Dictionaries | Link |",
-    "description": "Notebook\rLecture Description Notebook | 05 | Lists and Dictionaries | Link |",
+    "content": "Notebook\rLecture Description Notebook 05 Lists and Dictionaries Link",
+    "description": "Notebook\rLecture Description Notebook 05 Lists and Dictionaries Link",
     "tags": [],
     "title": "Lecture 05",
     "uri": "/FINC672-SP2026/lectures/lecture_05/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook | 06 | Libraries | Link |",
-    "description": "Notebook\rLecture Description Notebook | 06 | Libraries | Link |",
+    "content": "Notebook\rLecture Description Notebook 06 Libraries Link",
+    "description": "Notebook\rLecture Description Notebook 06 Libraries Link",
     "tags": [],
     "title": "Lecture 06",
     "uri": "/FINC672-SP2026/lectures/lecture_06/index.html"
@@ -73,16 +73,16 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 09 Returns. Link",
+    "description": "Notebook\rLecture Description Notebook 09 Returns. Link",
     "tags": [],
     "title": "Lecture 09",
     "uri": "/FINC672-SP2026/lectures/lecture_09/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 10 Time Series. Link",
+    "description": "Notebook\rLecture Description Notebook 10 Time Series. Link",
     "tags": [],
     "title": "Lecture 10",
     "uri": "/FINC672-SP2026/lectures/lecture_10/index.html"
