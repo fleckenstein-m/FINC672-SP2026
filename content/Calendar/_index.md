@@ -21,9 +21,11 @@ weight: 1
 | 2026-02-26     | Thursday     | Lecture 07b (Intro to Pandas)                             |                                |
 |                                                                                                                            |
 | 2026-03-03     | Thursday     | Lecture 08  (More Pandas)                                 |                                |
-| 2026-03-05     | Thursday     | Lecture 08b (More Pandas)                                 | **Assignments 15-17**          |
+| 2026-03-05     | Thursday     | Lecture 09 (Returns)                                      | **Assignments 15-18**          |
+|                                                                                                                            |
+| **2026-03-10** | **Tuesday**   | **Midterm I**                                            |                                |                                                                                                         
+| 2026-03-12     | Thursday      | Lecture 10 (Pandas Time Series)                          |                                |
 
-                                                                                                           
 <!--
 | 2026-03-03     | Tuesday      | Lecture 09 (Returns)                                      |                  |
 | 2026-03-05     | Thursday     | Lecture 10 (Pandas Time Series)                           | **Assignments 18-20**            |

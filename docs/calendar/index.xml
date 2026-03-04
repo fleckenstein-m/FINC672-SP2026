@@ -3,7 +3,7 @@
   <channel>
     <title>Calendar :: FIN672 - Financial Data Analytics</title>
     <link>https://fleckenstein-m.github.io/FINC672-SP2026/calendar/index.html</link>
-    <description>Course Calendar&#xD;Date Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 08b (More Pandas) Assignments 15-17</description>
+    <description>Course Calendar&#xD;Date Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 09 (Returns) Assignments 15-18 2026-03-10 Tuesday Midterm I 2026-03-12 Thursday Lecture 10 (Pandas Time Series)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://fleckenstein-m.github.io/FINC672-SP2026/calendar/index.xml" rel="self" type="application/rss+xml" />
