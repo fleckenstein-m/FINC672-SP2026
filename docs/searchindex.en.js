@@ -65,16 +65,16 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 08 More Pandas. Link",
-    "description": "Notebook\rLecture Description Notebook 08 More Pandas. Link",
+    "content": "Notebook\rLecture Description Notebook 08 More Pandas Link",
+    "description": "Notebook\rLecture Description Notebook 08 More Pandas Link",
     "tags": [],
     "title": "Lecture 08",
     "uri": "/FINC672-SP2026/lectures/lecture_08/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 09 Returns. Link",
-    "description": "Notebook\rLecture Description Notebook 09 Returns. Link",
+    "content": "Notebook\rLecture Description Notebook 09 Returns Link",
+    "description": "Notebook\rLecture Description Notebook 09 Returns Link",
     "tags": [],
     "title": "Lecture 09",
     "uri": "/FINC672-SP2026/lectures/lecture_09/index.html"
