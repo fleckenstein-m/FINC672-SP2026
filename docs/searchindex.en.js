@@ -89,8 +89,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook",
-    "description": "Notebook\rLecture Description Notebook",
+    "content": "Notebook\rLecture Description Notebook 11 Data Visualization. Link",
+    "description": "Notebook\rLecture Description Notebook 11 Data Visualization. Link",
     "tags": [],
     "title": "Lecture 11",
     "uri": "/FINC672-SP2026/lectures/lecture_11/index.html"
