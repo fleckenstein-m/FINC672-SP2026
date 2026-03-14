@@ -25,6 +25,9 @@ weight: 1
 |                                                                                                                            |
 | **2026-03-10** | **Tuesday**   | **Midterm I**                                            |                                |                                                                                                         
 | 2026-03-12     | Thursday      | Lecture 10 (Pandas Time Series)                          |                                |
+|                                                                                                                            |
+| 2026-03-17     | Tuesday       | Lecture 10b (Pandas Time Series)                          |                                |
+| 2026-03-09     | Thursday      | Lecture 11 (Visualization)                                | **Assignments 15-18**          |
 
 <!--
 | 2026-03-03     | Tuesday      | Lecture 09 (Returns)                                      |                  |
