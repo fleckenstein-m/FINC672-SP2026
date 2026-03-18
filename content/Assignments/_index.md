@@ -28,11 +28,11 @@ weight: 3
 | Assignment 16  | Conditional Statements, Functions, Loops |  [Notebook](https://colab.research.google.com/drive/1qqlyqvz77YVuy5x688nuuC5DH2hK3Qp4)        |
 | Assignment 17  | Arrays                                   |  [Notebook](https://colab.research.google.com/drive/1oZwJ-rZEXk5HjWTX1BhvxiyhCh0ja4XJ)        |
 | Assignment 18  | DataFrames                               |  [Notebook](https://colab.research.google.com/drive/1sP3H0YpLvve59KBxJLHoNrjMvf3cRdJH)        |
+
+<!--
 | Assignment 19  | Arithmetic Returns                       |  [Notebook](https://colab.research.google.com/drive/1QA9VGjfMpKZDog_H0D4NqrY7cx-GU68e)        |
 | Assignment 20  | Arithmetic Returns II                    |  [Notebook](https://colab.research.google.com/drive/1T2ltfu6MgxcCB_LfCDRvtJrI8ksoJZpe)        |
 | Assignment 21  | Log Returns                              |  [Notebook](https://colab.research.google.com/drive/1239_GLaIF8CE_2999cW2rMqlq37EiChV)        |
-
-<!--
 | Assignment 21  | Risk/Return Visualization                |  [Notebook](https://colab.research.google.com/drive/)        |
 | Assignment 22  | Return Volatility                        |  [Notebook](https://colab.research.google.com/drive/)        |
 | Assignment 23  | Return Volatility II                     |  [Notebook](https://colab.research.google.com/drive/)        |
@@ -73,11 +73,11 @@ weight: 3
 | Assignment 16  | Conditional Statements, Functions, Loops |  [Notebook](https://colab.research.google.com/drive/1tJnUnGE-0cwZMV9xSQsFga31TpP4vFZ1)           |
 | Assignment 17  | Arrays                                   |  [Notebook](https://colab.research.google.com/drive/1wtBCH_OU1mC6c1qDTZd8tWMQ1t7azfF8)           |
 | Assignment 18  | DataFrames                               |  [Notebook](https://colab.research.google.com/drive/1p2YRm-eveNONCNR8q0hTMlVMPebylrQK)           |
+
+<!--
 | Assignment 19  | Arithmetic Returns                       |  [Notebook](https://colab.research.google.com/drive/1R9TVGvO8UJ4iyAy5VJ3q8jMNvCoSeQEn)           |
 | Assignment 20  | Arithmetic Returns II                    |  [Notebook](https://colab.research.google.com/drive/1Z4hTausWMFEZ6_8LNZPAisp3JtHjb6rj)           |
 | Assignment 21  | Log Returns                              |  [Notebook](https://colab.research.google.com/drive/1fTHFGMf4WOe_2lBQvxFThMzn52G4rCHS)           |
-
-<!--
 | Assignment 28  | Risk/Return Visualization                |  [Notebook](https://colab.research.google.com/drive/)           |
 | Assignment 23  | Return Volatility                        |  [Notebook](https://colab.research.google.com/drive/)           |
 | Assignment 24  | Return Volatility II                     |  [Notebook](https://colab.research.google.com/drive/)           |

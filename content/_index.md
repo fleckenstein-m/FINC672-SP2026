@@ -65,7 +65,7 @@ After completing this course, students will be able to:
 
 <br>
 
-
+<!--
 ## Tentative Course Schedule
 
 | Date           | Day          | Lecture                                                   | Assignment       | 
@@ -118,4 +118,4 @@ After completing this course, students will be able to:
 | **2026-05-16** | **Saturday** | **Final Exam: 2.00pm - 4.00pm; Purnell Hall 114**         |                  |
 |                                                                                                              |
 | **2026-05-21** | **Thursday** | **Project Due**                                           |                  |
-
+-->

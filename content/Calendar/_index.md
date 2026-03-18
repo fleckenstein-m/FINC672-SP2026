@@ -26,8 +26,15 @@ weight: 1
 | **2026-03-10** | **Tuesday**   | **Midterm I**                                            |                                |                                                                                                         
 | 2026-03-12     | Thursday      | Lecture 10 (Pandas Time Series)                          |                                |
 |                                                                                                                            |
-| 2026-03-17     | Tuesday       | Lecture 10b (Pandas Time Series)                          |                               |
-| 2026-03-19     | Thursday      | Lecture 11 (Visualization)                                | **Assignments 19-21**         |
+| 2026-03-17     | Tuesday       | Lecture 10b (Pandas Time Series)                         |                                |
+| 2026-03-19     | Thursday      | Lecture 11 (Visualization)                               |                                |
+|                                                                                                                            |
+| 2026-03-24     | Tuesday       | Spring Break                                             |                                |
+| 2026-03-26     | Thursday      | Spring Break                                             |                                |
+|                                                                                                                            |
+| 2026-03-31     | Tuesday      | Lecture 12 (Data APIs)                                    |                                |
+| 2026-04-02     | Thursday     | Lecture 13 (Portfolio Mathematics)                        | **Assignments 19-21**          |
+
 
 <!--
 | 2026-03-03     | Tuesday      | Lecture 09 (Returns)                                      |                  |
