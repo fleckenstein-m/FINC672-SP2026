@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
-    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 09 (Returns) Assignments 15-18 2026-03-10 Tuesday Midterm I 2026-03-12 Thursday Lecture 10 (Pandas Time Series) 2026-03-17 Tuesday Lecture 10b (Pandas Time Series) 2026-03-19 Thursday Lecture 11 (Visualization) 2026-03-24 Tuesday Spring Break 2026-03-26 Thursday Spring Break 2026-03-31 Tuesday Lecture 12 (Data APIs) 2026-04-02 Thursday Lecture 13 (Portfolio Mathematics) Assignments 19-21",
-    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 09 (Returns) Assignments 15-18 2026-03-10 Tuesday Midterm I 2026-03-12 Thursday Lecture 10 (Pandas Time Series) 2026-03-17 Tuesday Lecture 10b (Pandas Time Series) 2026-03-19 Thursday Lecture 11 (Visualization) 2026-03-24 Tuesday Spring Break 2026-03-26 Thursday Spring Break 2026-03-31 Tuesday Lecture 12 (Data APIs) 2026-04-02 Thursday Lecture 13 (Portfolio Mathematics) Assignments 19-21",
+    "content": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 09 (Returns) Assignments 15-18 2026-03-10 Tuesday Midterm I 2026-03-12 Thursday Lecture 10 (Pandas Time Series) 2026-03-17 Tuesday Lecture 10b (Pandas Time Series) 2026-03-19 Thursday Lecture 11 (Visualization) 2026-03-24 Tuesday Spring Break 2026-03-26 Thursday Spring Break 2026-03-31 Tuesday Lecture 12 (Data APIs) 2026-04-02 Thursday Lecture 13 (Portfolio Mathematics) Assignments 19-25 2026-04-07 Tuesday Lecture 13b (Portfolio Mathematics) 2026-04-09 Thursday Lecture 14 (Portfolio Optimization I) Assignments 26-30 2026-04-14 Tuesday Lecture 14b (Portfolio Optimization I) 2026-04-16 Thursday Midterm II",
+    "description": "Course Calendar\rDate Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 09 (Returns) Assignments 15-18 2026-03-10 Tuesday Midterm I 2026-03-12 Thursday Lecture 10 (Pandas Time Series) 2026-03-17 Tuesday Lecture 10b (Pandas Time Series) 2026-03-19 Thursday Lecture 11 (Visualization) 2026-03-24 Tuesday Spring Break 2026-03-26 Thursday Spring Break 2026-03-31 Tuesday Lecture 12 (Data APIs) 2026-04-02 Thursday Lecture 13 (Portfolio Mathematics) Assignments 19-25 2026-04-07 Tuesday Lecture 13b (Portfolio Mathematics) 2026-04-09 Thursday Lecture 14 (Portfolio Optimization I) Assignments 26-30 2026-04-14 Tuesday Lecture 14b (Portfolio Optimization I) 2026-04-16 Thursday Midterm II",
     "tags": [],
     "title": "Calendar",
     "uri": "/FINC672-SP2026/calendar/index.html"
@@ -89,19 +89,43 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 11 Data Visualization. Link",
-    "description": "Notebook\rLecture Description Notebook 11 Data Visualization. Link",
+    "content": "Notebook\rLecture Description Notebook 11 Data Visualization Link",
+    "description": "Notebook\rLecture Description Notebook 11 Data Visualization Link",
     "tags": [],
     "title": "Lecture 11",
     "uri": "/FINC672-SP2026/lectures/lecture_11/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 14 Data APIs. Link",
-    "description": "Notebook\rLecture Description Notebook 14 Data APIs. Link",
+    "content": "Notebook\rLecture Description Notebook 12 Data APIs. Link",
+    "description": "Notebook\rLecture Description Notebook 12 Data APIs. Link",
     "tags": [],
     "title": "Lecture 12",
     "uri": "/FINC672-SP2026/lectures/lecture_12/index.html"
+  },
+  {
+    "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
+    "content": "Notebook\rLecture Description Notebook 13 Portfolio Mathematics. Link",
+    "description": "Notebook\rLecture Description Notebook 13 Portfolio Mathematics. Link",
+    "tags": [],
+    "title": "Lecture 13",
+    "uri": "/FINC672-SP2026/lectures/lecture_13/index.html"
+  },
+  {
+    "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
+    "content": "Notebook\rLecture Description Notebook 13 Portfolio Optimization I. Link",
+    "description": "Notebook\rLecture Description Notebook 13 Portfolio Optimization I. Link",
+    "tags": [],
+    "title": "Lecture 14",
+    "uri": "/FINC672-SP2026/lectures/lecture_14/index.html"
+  },
+  {
+    "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
+    "content": "Notebook\rLecture Description Notebook 15 Portfolio Optimization II. Link",
+    "description": "Notebook\rLecture Description Notebook 15 Portfolio Optimization II. Link",
+    "tags": [],
+    "title": "Lecture 15",
+    "uri": "/FINC672-SP2026/lectures/lecture_15/index.html"
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
@@ -113,8 +137,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics",
-    "content": "Problem Sets\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook Solutions\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook",
-    "description": "Problem Sets\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook Solutions\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook",
+    "content": "Problem Sets\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook Assignment 19 Arithmetic Returns Notebook Assignment 20 Arithmetic Returns II Notebook Assignment 21 Log Returns Notebook Assignment 22 Risk/Return Visualization Notebook Assignment 23 Return Volatility Notebook Assignment 24 Return Volatility II Notebook Assignment 25 Portfolio Returns Notebook Assignment 26 Index Returns Notebook Assignment 27 Return Covariance Notebook Assignment 28 Portfolio Mathematics Notebook Assignment 29 Portfolio Optimization Notebook Assignment 30 Portfolio Optimization II Notebook Solutions\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook",
+    "description": "Problem Sets\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook Assignment 19 Arithmetic Returns Notebook Assignment 20 Arithmetic Returns II Notebook Assignment 21 Log Returns Notebook Assignment 22 Risk/Return Visualization Notebook Assignment 23 Return Volatility Notebook Assignment 24 Return Volatility II Notebook Assignment 25 Portfolio Returns Notebook Assignment 26 Index Returns Notebook Assignment 27 Return Covariance Notebook Assignment 28 Portfolio Mathematics Notebook Assignment 29 Portfolio Optimization Notebook Assignment 30 Portfolio Optimization II Notebook Solutions\rAssignment Description Link to Google Colab Assignment 01 Variables Notebook Assignment 02 Numbers and Booleans Notebook Assignment 03 Strings Notebook Assignment 04 Arithmetic Operators Notebook Assignment 05 Comparisons Notebook Assignment 06 (Re-)assignments Notebook Assignment 07 Indexing Notebook Assignment 08 Comparisons II Notebook Assignment 09 Logical and Identity Operators Notebook Assignment 10 Functions Notebook Assignment 11 If-Else Notebook Assignment 15 For Loops Notebook Assignment 12 Lists Notebook Assignment 13 Tuples Notebook Assignment 14 Dictionaries Notebook Assignment 16 Conditional Statements, Functions, Loops Notebook Assignment 17 Arrays Notebook Assignment 18 DataFrames Notebook",
     "tags": [],
     "title": "Assignments",
     "uri": "/FINC672-SP2026/assignments/index.html"

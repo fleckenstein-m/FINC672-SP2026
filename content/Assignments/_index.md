@@ -28,10 +28,6 @@ weight: 3
 | Assignment 16  | Conditional Statements, Functions, Loops |  [Notebook](https://colab.research.google.com/drive/1qqlyqvz77YVuy5x688nuuC5DH2hK3Qp4)        |
 | Assignment 17  | Arrays                                   |  [Notebook](https://colab.research.google.com/drive/1oZwJ-rZEXk5HjWTX1BhvxiyhCh0ja4XJ)        |
 | Assignment 18  | DataFrames                               |  [Notebook](https://colab.research.google.com/drive/1sP3H0YpLvve59KBxJLHoNrjMvf3cRdJH)        |
-
-
-
-<!--
 | Assignment 19  | Arithmetic Returns                       |  [Notebook](https://colab.research.google.com/drive/15aMTwjZAJL6HX8rv-EWAPdpQE_dqe6VW)        |
 | Assignment 20  | Arithmetic Returns II                    |  [Notebook](https://colab.research.google.com/drive/1hQWnwPuUcXW71cLI-S6bkT98ABnDDHNP)        |
 | Assignment 21  | Log Returns                              |  [Notebook](https://colab.research.google.com/drive/1tbKMEeAEMfs12MnJ3GTcgADdNNihVcCH)        |
@@ -44,6 +40,8 @@ weight: 3
 | Assignment 28  | Portfolio Mathematics                    |  [Notebook](https://colab.research.google.com/drive/1OULOLvOqH6bMASvBPQZBRX1ho1yOiTWv)        |
 | Assignment 29  | Portfolio Optimization                   |  [Notebook](https://colab.research.google.com/drive/1t-9RiLpHxtu02iGTOmUp3JfS57--9tzC)        |
 | Assignment 30  | Portfolio Optimization II                |  [Notebook](https://colab.research.google.com/drive/1xUy9pJ3rTyBJ783Gon64MgGSMGgkhdt5)           |
+
+<!--
 | Assignment 31  | Performance Evaluation                   |  [Notebook](https://colab.research.google.com/drive/1q0sV5xNGZR6CgcQLcnkNflCOgKZgi3Zg)        |
 | Assignment 32  | CAPM                                     |  [Notebook](https://colab.research.google.com/drive/133KImTHbhLDn_oZwEolVG64qT5dookW0)        |
 | Assignment 33  | CAPM Regressions                         |  [Notebook](https://colab.research.google.com/drive/1e6S9fPV76Et80EoHipU2vY4MJFc-074q)        |

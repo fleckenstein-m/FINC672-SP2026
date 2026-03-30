@@ -82,14 +82,35 @@
       <link>http://localhost:1313/FINC672-SP2026/lectures/lecture_11/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/FINC672-SP2026/lectures/lecture_11/index.html</guid>
-      <description>Notebook&#xD;Lecture Description Notebook 11 Data Visualization. Link</description>
+      <description>Notebook&#xD;Lecture Description Notebook 11 Data Visualization Link</description>
     </item>
     <item>
       <title>Lecture 12</title>
       <link>http://localhost:1313/FINC672-SP2026/lectures/lecture_12/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/FINC672-SP2026/lectures/lecture_12/index.html</guid>
-      <description>Notebook&#xD;Lecture Description Notebook 14 Data APIs. Link</description>
+      <description>Notebook&#xD;Lecture Description Notebook 12 Data APIs. Link</description>
+    </item>
+    <item>
+      <title>Lecture 13</title>
+      <link>http://localhost:1313/FINC672-SP2026/lectures/lecture_13/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/FINC672-SP2026/lectures/lecture_13/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 13 Portfolio Mathematics. Link</description>
+    </item>
+    <item>
+      <title>Lecture 14</title>
+      <link>http://localhost:1313/FINC672-SP2026/lectures/lecture_14/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/FINC672-SP2026/lectures/lecture_14/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 13 Portfolio Optimization I. Link</description>
+    </item>
+    <item>
+      <title>Lecture 15</title>
+      <link>http://localhost:1313/FINC672-SP2026/lectures/lecture_15/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/FINC672-SP2026/lectures/lecture_15/index.html</guid>
+      <description>Notebook&#xD;Lecture Description Notebook 15 Portfolio Optimization II. Link</description>
     </item>
   </channel>
 </rss>
