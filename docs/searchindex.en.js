@@ -113,8 +113,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "FINC672 - Financial Data Analytics \u003e Lectures",
-    "content": "Notebook\rLecture Description Notebook 13 Portfolio Optimization I. Link",
-    "description": "Notebook\rLecture Description Notebook 13 Portfolio Optimization I. Link",
+    "content": "Notebook\rLecture Description Notebook 14 Portfolio Optimization I. Link",
+    "description": "Notebook\rLecture Description Notebook 14 Portfolio Optimization I. Link",
     "tags": [],
     "title": "Lecture 14",
     "uri": "/FINC672-SP2026/lectures/lecture_14/index.html"
