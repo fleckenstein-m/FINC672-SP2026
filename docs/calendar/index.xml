@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendar :: FIN672 - Financial Data Analytics</title>
-    <link>https://fleckenstein-m.github.io/FINC672-SP2026/calendar/index.html</link>
+    <link>http://localhost:1313/FINC672-SP2026/calendar/index.html</link>
     <description>Course Calendar&#xD;Date Day Lecture Assignment Due 2026-02-03 Tuesday Lecture 01 (Intro to Colab) 2026-02-05 Thursday Lecture 02 (Objects) 2026-02-10 Tuesday Lecture 03 (Functions) Assignments 01 to 06 2026-02-12 Thursday Lecture 04 (Control Flow) 2026-02-17 Tuesday Lecture 05 (Lists and Dictionaries) 2026-02-19 Thursday Lecture 06 (Libraries) Assignments 7-14 2026-02-24 Tuesday Lecture 07 (Intro to Pandas) 2026-02-26 Thursday Lecture 07b (Intro to Pandas) 2026-03-03 Thursday Lecture 08 (More Pandas) 2026-03-05 Thursday Lecture 09 (Returns) Assignments 15-18 2026-03-10 Tuesday Midterm I 2026-03-12 Thursday Lecture 10 (Pandas Time Series) 2026-03-17 Tuesday Lecture 10b (Pandas Time Series) 2026-03-19 Thursday Lecture 11 (Visualization) 2026-03-24 Tuesday Spring Break 2026-03-26 Thursday Spring Break 2026-03-31 Tuesday Lecture 12 (Data APIs) 2026-04-02 Thursday Lecture 13 (Portfolio Mathematics) Assignments 19-25 2026-04-07 Tuesday Lecture 13b (Portfolio Mathematics) 2026-04-09 Thursday Lecture 14 (Portfolio Optimization I) Assignments 26-30 2026-04-14 Tuesday Lecture 14b (Portfolio Optimization I) 2026-04-16 Thursday Midterm II</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://fleckenstein-m.github.io/FINC672-SP2026/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/FINC672-SP2026/calendar/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
