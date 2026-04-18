@@ -40,15 +40,15 @@ weight: 1
 |                                                                                                                            |
 | 2026-04-14     | Tuesday       | Lecture 14b (Portfolio Optimization I)                   |                                |
 | **2026-04-16** | **Thursday**  | **Midterm II**                                           |                                |
+|                                                                                                                            |
+| 2026-04-21     | Tuesday      |  Midterm II Review & Lecture 15 (CAPM)                    |                                |
+| 2026-04-23     | Thursday     |  Lecture 15b (CAPM)                                       |                                |
+|                                                                                                                            |
+| 2026-04-28     | Tuesday      |  Lecture 16 (Multifactor Models)                          | **Assignments 31-36**         |
+| **2026-04-30** | **Thursday** |  **Project Proposals Due** & Lecture 16b (Multifactor Models) |                            | 
 
 
 <!--
-|                                                                                                                            |
-| 2026-04-21     | Tuesday      |                                                           |                                |
-| 2026-04-23     | Thursday     |                                                           |                                |
-|                                                                                                                            |
-| 2026-04-28     | Tuesday      |                                                           |                                |
-| **2026-04-30** | **Thursday** |                                                           |                                | 
 |                                                                                                                            |
 | 2026-05-05     | Tuesday      |                                                           |                                |
 | 2026-05-07     | Thursday     |                                                           |                                |
@@ -61,7 +61,6 @@ weight: 1
 | **2026-05-21** | **Thursday** | **Project Due**                                           |                                |
 
 
-<!--
 |                                                                                                              |
 | 2026-04-14     | Tuesday      | Lecture 17 (Tangency Portfolio)                           |                  |
 | **2026-04-16** | **Thursday** | **Midterm II**                                            |                  |

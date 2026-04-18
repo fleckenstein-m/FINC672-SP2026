@@ -40,14 +40,14 @@ weight: 3
 | Assignment 28  | Portfolio Mathematics                    |  [Notebook](https://colab.research.google.com/drive/1OULOLvOqH6bMASvBPQZBRX1ho1yOiTWv)        |
 | Assignment 29  | Portfolio Optimization                   |  [Notebook](https://colab.research.google.com/drive/1t-9RiLpHxtu02iGTOmUp3JfS57--9tzC)        |
 | Assignment 30  | Portfolio Optimization II                |  [Notebook](https://colab.research.google.com/drive/1xUy9pJ3rTyBJ783Gon64MgGSMGgkhdt5)           |
-
-<!--
 | Assignment 31  | Performance Evaluation                   |  [Notebook](https://colab.research.google.com/drive/1q0sV5xNGZR6CgcQLcnkNflCOgKZgi3Zg)        |
 | Assignment 32  | CAPM                                     |  [Notebook](https://colab.research.google.com/drive/133KImTHbhLDn_oZwEolVG64qT5dookW0)        |
 | Assignment 33  | CAPM Regressions                         |  [Notebook](https://colab.research.google.com/drive/1e6S9fPV76Et80EoHipU2vY4MJFc-074q)        |
 | Assignment 34  | Multivariate Regressions                 |  [Notebook](https://colab.research.google.com/drive/1b0NdtLkahpcPnkA9OGkzlF45H2TQuHxD)        |
 | Assignment 35  | Systematic/Idiosyncratic Risk            |  [Notebook](https://colab.research.google.com/drive/1YvVexa3cbPaI-TYOzj4rpWB-ojMb0EcZ)        |
 | Assignment 36  | Multifactor Models                       |  [Notebook](https://colab.research.google.com/drive/11YDm0NVB_gWoT3ZZNBu8TPHsQGPCLgQ7)        |
+
+<!--
 | Assignment 37  | Options and Black Scholes                |  [Notebook](https://colab.research.google.com/drive/1ouIaFGawUaNjVn1bErqZQxM1je-tWlZm)        |
 -->
 
