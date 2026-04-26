@@ -38,23 +38,23 @@ weight: 1
 | 2026-04-07     | Tuesday       | Lecture 13b (Portfolio Mathematics)                      |                                |
 | 2026-04-09     | Thursday      | Lecture 14 (Portfolio Optimization I)                    | **Assignments 26-30**          |
 |                                                                                                                            |
-| 2026-04-14     | Tuesday       | Lecture 14b (Portfolio Optimization I)                   |                                |
+| 2026-04-14     | Tuesday       | Lecture 15 (Portfolio Optimization II)                   |                                |
 | **2026-04-16** | **Thursday**  | **Midterm II**                                           |                                |
 |                                                                                                                            |
-| 2026-04-21     | Tuesday      |  Midterm II Review & Lecture 15 (CAPM)                    |                                |
-| 2026-04-23     | Thursday     |  Lecture 15b (CAPM)                                       |                                |
+| 2026-04-21     | Tuesday      |  Midterm II Review & Lecture 16 (CAPM)                    |                                |
+| 2026-04-23     | Thursday     |  Lecture 17 (Multifactor Models)                          |                                |
 |                                                                                                                            |
-| 2026-04-28     | Tuesday      |  Lecture 16 (Multifactor Models)                          | **Assignments 31-36**         |
-| **2026-04-30** | **Thursday** |  **Project Proposals Due** & Lecture 16b (Multifactor Models) |                            | 
+| 2026-04-28     | Tuesday      |  Lecture 17b (Multifactor Models)                         | **Assignments 31-36**          |
+| **2026-04-30** | **Thursday** |  **Project Proposals Due** & Lecture 18 (Option Pricing)  |                                | 
+|                                                                                                                            |
+| 2026-05-05     | Tuesday      |  Lecture 19 (Machine Learning I)                          |                                |
+| 2026-05-07     | Thursday     |  Lecture 20 (Machine Learning II)                         |                                |
+|                                                                                                                            |
+| 2026-05-12     | Tuesday      |  Lecture 21 (Machine Learning III)                        |                                |
+| 2026-05-14     | Thursday     |  Lecture 20 (Machine Learning II) & Last Day of Classes   | **Assignments 37-39**          |
 
 
 <!--
-|                                                                                                                            |
-| 2026-05-05     | Tuesday      |                                                           |                                |
-| 2026-05-07     | Thursday     |                                                           |                                |
-|                                                                                                                            |
-| 2026-05-12     | Tuesday      |                                                           |                                |
-| 2026-05-14     | Thursday     |  Last Day of Classes                                      |                                |
 |                                                                                                                            |
 | **2026-05-16** | **Saturday** | **Final Exam: 2.00pm - 4.00pm; Purnell Hall 114**         |                                |
 |                                                                                                                            |

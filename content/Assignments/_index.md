@@ -46,11 +46,13 @@ weight: 3
 | Assignment 34  | Multivariate Regressions                 |  [Notebook](https://colab.research.google.com/drive/1b0NdtLkahpcPnkA9OGkzlF45H2TQuHxD)        |
 | Assignment 35  | Systematic/Idiosyncratic Risk            |  [Notebook](https://colab.research.google.com/drive/1YvVexa3cbPaI-TYOzj4rpWB-ojMb0EcZ)        |
 | Assignment 36  | Multifactor Models                       |  [Notebook](https://colab.research.google.com/drive/11YDm0NVB_gWoT3ZZNBu8TPHsQGPCLgQ7)        |
+| Assignment 37  | Options and Black Scholes                |  [Notebook](https://colab.research.google.com/drive/1ouIaFGawUaNjVn1bErqZQxM1je-tWlZm)        |
+| Assignment 38  | Machine Learning I                       |  [Notebook](https://colab.research.google.com/drive/1ts8K7oix_VZlAx85Yosie6lk7xV1l_EX)        |
+| Assignment 39  | Machine Learning II                      |  [Notebook](https://colab.research.google.com/drive/1HL4h3Y4dXXfTV2T3nOM-GyNHiig5gsto)        |
 
 <!--
-| Assignment 37  | Options and Black Scholes                |  [Notebook](https://colab.research.google.com/drive/1ouIaFGawUaNjVn1bErqZQxM1je-tWlZm)        |
--->
 
+-->
 
 ## Solutions
 
@@ -95,4 +97,6 @@ weight: 3
 | Assignment 35  | Systematic/Idiosyncratic Risk            |  [Notebook](https://colab.research.google.com/drive/1M_jXizdkVUCpTdFHwGapvTMIHYkskv5e)           |
 | Assignment 36  | Multifactor Models                       |  [Notebook](https://colab.research.google.com/drive/1HlUF1yLg6tEOvBLEkizbLQ-tel-Kjypi)           |
 | Assignment 37  | Options and Black Scholes                |  [Notebook](https://colab.research.google.com/drive/1WdaxNPfPFBd4rofIuV2OEEAMP8oIb0RD)           |
+| Assignment 38  | Machine Learning I                       |  [Notebook](https://colab.research.google.com/drive/1uKrzfjFNx_RI4eVUiU5bP4fXdx1eXdQQ)        |
+| Assignment 39  | Machine Learning II                      |  [Notebook](https://colab.research.google.com/drive/1fyw2Ssh_QP83qYDiDoWDhJcF5WGJopNX)        |
 -->
