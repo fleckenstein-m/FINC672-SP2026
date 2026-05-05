@@ -51,15 +51,13 @@ weight: 1
 | 2026-05-07     | Thursday     |  Lecture 20 (Machine Learning II)                         |                                |
 |                                                                                                                            |
 | 2026-05-12     | Tuesday      |  Lecture 21 (Machine Learning III)                        |                                |
-| 2026-05-14     | Thursday     |  Lecture 20 (Machine Learning II) & Last Day of Classes   | **Assignments 37-39**          |
-
-
-<!--
+| 2026-05-14     | Thursday     |  Lecture 20 (Machine Learning IV) & Last Day of Classes   | **Assignments 37-39**          |
 |                                                                                                                            |
 | **2026-05-16** | **Saturday** | **Final Exam: 2.00pm - 4.00pm; Purnell Hall 114**         |                                |
 |                                                                                                                            |
 | **2026-05-21** | **Thursday** | **Project Due**                                           |                                |
 
+<!--
 
 |                                                                                                              |
 | 2026-04-14     | Tuesday      | Lecture 17 (Tangency Portfolio)                           |                  |
