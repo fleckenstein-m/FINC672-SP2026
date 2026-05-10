@@ -88,8 +88,6 @@ weight: 3
 | Assignment 28  | Portfolio Mathematics                    |  [Notebook](https://colab.research.google.com/drive/17cnphuWPqsvWxxnBenEYY58EpKEutwul)           |
 | Assignment 29  | Portfolio Optimization                   |  [Notebook](https://colab.research.google.com/drive/1yFp_wQ-4plDSg2rqzpE-4i1X0MOKBqGp)           |
 | Assignment 30  | Portfolio Optimization II                |  [Notebook](https://colab.research.google.com/drive/1i3ea3i6CzI7Z0d2Q5zQ3G5Ff0TbbqHc_)           |
-
-<!--
 | Assignment 31  | Performance Evaluation                   |  [Notebook](https://colab.research.google.com/drive/1nDDiJWWNDNXINSXehq4OVg0T4vX9vL1p)           |
 | Assignment 32  | CAPM                                     |  [Notebook](https://colab.research.google.com/drive/1GzSz5o1HO9bZ0m63rVBZsQ8IE5Bhli1J)           |
 | Assignment 33  | CAPM Regressions                         |  [Notebook](https://colab.research.google.com/drive/1ns2_eHXb_sIKtZqfXHHQhW2bESyGpqoD)           |
@@ -99,4 +97,6 @@ weight: 3
 | Assignment 37  | Options and Black Scholes                |  [Notebook](https://colab.research.google.com/drive/1WdaxNPfPFBd4rofIuV2OEEAMP8oIb0RD)           |
 | Assignment 38  | Machine Learning I                       |  [Notebook](https://colab.research.google.com/drive/1uKrzfjFNx_RI4eVUiU5bP4fXdx1eXdQQ)        |
 | Assignment 39  | Machine Learning II                      |  [Notebook](https://colab.research.google.com/drive/1fyw2Ssh_QP83qYDiDoWDhJcF5WGJopNX)        |
+
+<!--
 -->
